@@ -19,7 +19,6 @@ header nav {
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
-  width: 100%;
 }
 header nav a{
     color: grey;
@@ -36,10 +35,12 @@ header nav a{
   justify-content: center;
   
 }
-
-.bannerimage {
-  width: 100%;
+.services-header-img {
+    width: 90%;
+    margin-top: 10px;
 }
+
+
 
 .aboutServices{
 display: flex;
